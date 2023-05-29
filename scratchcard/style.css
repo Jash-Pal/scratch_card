@@ -47,7 +47,7 @@ button {
 #card {
   width: 100vw;
   height: 95vh;
-  position: relative;
+  position: fixed;
   user-select: none;
 }
 
