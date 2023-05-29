@@ -21,7 +21,7 @@ body {
 }
 
 button {
-  margin-bottom: 4.5em;
+  margin-bottom: 4em;
   margin-right: 10em;
   width: 100px;
   padding: 8px 2px;
@@ -46,7 +46,7 @@ button {
 
 #card {
   width: 100vw;
-  height: 90vh;
+  height: 95vh;
   position: relative;
   user-select: none;
 }
